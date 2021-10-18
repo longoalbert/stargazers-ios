@@ -20,4 +20,4 @@ Per la gestione delle dipendenze ho utilizzato **Cocoapods**.
 
 Non ho creato classi per la gestione delle chiamate di rete, avendo una sola chiamata da effettuare all'interno del progetto.
 
-In assenza di direttive grafiche e di mockup, ho preferito mantenere una UI molto basilare.
+In assenza di direttive grafiche e di mockup, ho preferito mantenere una UI molto basilare. Non ho utilizzato il framework SwiftUI poiché ad oggi non ho avuto tempo di studiarlo in maniera approfondita, avendo letto solo qualcosa di tanto in tanto.
